@@ -1,4 +1,4 @@
-## Welcome to Chaoli Sun Personal Pages
+## Welcome to Chaoli Sun's homepage!
 
 I grew up in a small countryside in Zhejiang province of China. After obtain my B.E. and M.S. degrees from Hohai University in 1996 and 2000, respectively, I started my work in Taiyuan University of Science and Technology, Taiyuan, where I was granted the Ph.D degree in Mechanical Design and Theory in 2011. 
 
