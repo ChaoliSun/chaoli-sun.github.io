@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Chaoli Sun Personal Pages
+
+I grew up in a small countryside in Zhejiang province of China. After obtain my B.E. and M.S. degrees from Hohai University in 1996 and 2000, respectively, I started my work in Taiyuan University of Science and Technology, Taiyuan, where I was granted the Ph.D degree in Mechanical Design and Theory in 2011. 
 
 You can use the [editor on GitHub](https://github.com/ChaoliSun/chaoli-sun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
